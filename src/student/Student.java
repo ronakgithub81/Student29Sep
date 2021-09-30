@@ -17,6 +17,7 @@ public class Student {
     public String getMarks() {
         return marks;
     }
+    //comments added
 
     public void setMarks(String marks) {
         this.marks = marks;
